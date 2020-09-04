@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> List Practice </title>
+</head>
+<body>
+<h2> Shopping list </h2>
+<ul>
+	<li>milk</li>
+	<li>Grapes</li>
+	<li>Cookies</li>
+		<ul>
+			<li>chocolate</li>
+			<li>butter</li>
+			<li>cream</li>
+		</ul>
+	<li>Bread</li>
+	<li>Juice</li>
+		<ul>
+			<li>Mango</li>
+			<li>Guava</li>
+			<li>peach</li>
+		</ul>
+</ul>
+</body>
